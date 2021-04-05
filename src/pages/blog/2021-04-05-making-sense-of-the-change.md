@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Making sense of the change
-date: 2021-04-05T23:02:10.829Z
+date: 2021-04-05T23:05:08.754Z
 description: dsuasijdfjko sadfkoskkoadfk aospdfopkosa dfopkoasdkopasokdfóp
   aksodp'fopkaospdk foapdf
 featuredpost: true
